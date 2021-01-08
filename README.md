@@ -1,4 +1,4 @@
-<img src="python-coding-language.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Erick Developer">
+<img src="python-coding-language.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Erick Developer">
 
 <p align="left"> 
    Hello my name is Erick,  I am <strong>Full-Stack Developer</strong> with focus in <strong>Front-End</strong>.<br>
