@@ -2,12 +2,12 @@
 
 <p align="left" style="font-size: 20px"> 
    Hello my name is Erick,  I am <strong>Full-Stack Developer</strong> with focus in <strong>Front-End</strong>.<br>
-  I am studying System and System Development for Internet.
+    I have a certificate in IT and about to graduate in System Development for Internet.
 </p>
 
 ----
 
-### 💼 Currently working on
+#### 💼 Currently Working On
 <p align="left">
     Web systems for clubs partner programs such as Juventude (Partner Jaconero),
     Vasco da Gama (Partner-Giant), Santos (Partner-King) and Flamengo (NRN)
@@ -15,12 +15,16 @@
 
 ----
 
-### 🚀 My Skills
+#### 🚀 My Primary Skills
 
-<code title="JavaScript"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code title="Nodejs"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code title="JavaScript"><img height="32" src="js.png" alt="Javascript"/></code>
+<code title="React"><img height="32" src="react.png" alt="React"/></code>
+<code title="Redux"><img height="32" src="redux.png" alt="Redux"/></code>
+<code title="Angular"><img height="32" src="angular.png" alt="Angular"/></code>
+<code title="Ionic"><img height="32" src="ionic.png" alt="Ionic"/></code>
+<code title="Sass"><img height="32" src="sass.png" alt="Sass"/></code>
+<code title="Nodejs"><img height="32" src="node.png" alt="Nodejs"/></code>
+<code title="PHP"><img height="32" src="PHP.png" alt="PHP"/></code>
 
 ---
 
