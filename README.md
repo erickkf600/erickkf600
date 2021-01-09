@@ -1,7 +1,7 @@
 <img src="web-developer.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Erick Developer">
 
 <p align="left" style="font-size: 20px"> 
-   Hello my name is Erick Ferreira,  I am <strong>Full-Stack Developer</strong> with focus in <strong>Front-End</strong>.<br>
+   Hello my name is Erick Ferreira,  I am <strong>Full-Stack Developer</strong> but my focus is <strong>Front-End</strong>.<br>
     I have a certificate in IT and about to graduate in System Development for Internet.
 </p>
 
