@@ -56,8 +56,6 @@
 
 </p> 
 
-  <img src="wave.svg" width="100%" style="position: absolute; width: 100%; bottom: 0; left: 0; z-index: -1"/>
-
 
 
 
