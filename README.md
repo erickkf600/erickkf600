@@ -1,4 +1,4 @@
-<img src="web-developer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Erick Developer">
+<img src="web-developer.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Erick Developer">
 
 <p align="left" style="font-size: 20px"> 
    Hello my name is Erick Ferreira,  I am <strong>Full-Stack Developer</strong> with focus in <strong>Front-End</strong>.<br>
