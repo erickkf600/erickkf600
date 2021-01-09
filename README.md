@@ -56,7 +56,7 @@
 
 </p> 
 
-  <img src="footer.png" width="100%" style="position: absolute; width: 100%; bottom: -40%; left: 0"/></a>
+  <img src="wave.svg" width="100%" style="position: absolute; width: 100%; bottom: 0; left: 0; z-index: -1"/>
 
 
 
