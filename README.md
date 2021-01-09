@@ -23,9 +23,6 @@
 <code title="Angular"><img height="32" src="angular.png" alt="Angular"/></code>
 <code title="Ionic"><img height="32" src="ionic.png" alt="Ionic"/></code>
 <code title="Sass"><img height="32" src="sass.png" alt="Sass"/></code>
-
-<br>
-
 <code title="Gulp"><img height="32" src="gulp.png" alt="Gulp"/></code>
 <code title="Nodejs"><img height="32" src="node.png" alt="Nodejs"/></code>
 <code title="PHP"><img height="32" src="PHP.png" alt="PHP"/></code>
@@ -39,13 +36,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erickkf600&show_icons=true&theme=blueberry">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickkf600&count_private=true&theme=blueberry"> -->
 </span>
-<br>
+<br><br>
 
 <p align="left" style="font-size: 20px"> 
    💬 If you want to know more about me or just talk, don't hesitate to send me a message: ⤵️
 </p>
 
-<p align="left">
+<p align="left" >
   <a href="mailto:erickkf600@gmail.com" alt="Gmail" target="_blank" title="erickkf600 Email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"  height="28px"/></a>
 
