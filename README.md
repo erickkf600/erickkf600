@@ -1,7 +1,7 @@
 <img src="python-coding-language.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Erick Developer">
 
 <p align="left" style="font-size: 20px"> 
-   Hello my name is Erick,  I am <strong>Full-Stack Developer</strong> with focus in <strong>Front-End</strong>.<br>
+   Hello my name is Erick Ferreira,  I am <strong>Full-Stack Developer</strong> with focus in <strong>Front-End</strong>.<br>
     I have a certificate in IT and about to graduate in System Development for Internet.
 </p>
 
@@ -23,8 +23,35 @@
 <code title="Angular"><img height="32" src="angular.png" alt="Angular"/></code>
 <code title="Ionic"><img height="32" src="ionic.png" alt="Ionic"/></code>
 <code title="Sass"><img height="32" src="sass.png" alt="Sass"/></code>
+<code title="Gulp"><img height="32" src="gulp.png" alt="Gulp"/></code>
 <code title="Nodejs"><img height="32" src="node.png" alt="Nodejs"/></code>
 <code title="PHP"><img height="32" src="PHP.png" alt="PHP"/></code>
-
+<code title="PostgreSQL"><img height="32" src="postgresql.png" alt="PostgreSQL"/></code>
+<code title="MySQL"><img height="32" src="mysql.png" alt="MySQL"/></code>
 ---
+
+#### ⭐ Info about my account GitHub
+<span align="left" style="display: flex; align-items: flex-start">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickkf600&show_icons=true&theme=blueberry">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickkf600&count_private=true&theme=blueberry"> -->
+</span>
+##
+<p align="left" style="font-size: 20px"> 
+   💬 If you want to know more about me or just talk, don't hesitate to send me a message: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail" target="_blank" title="erickkf600 Email">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin" target="_blank"  title="erickkf600 Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5521990831801" alt="WhatsApp" target="_blank" title="erickkf600 WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+</p> 
+
+
+
 
