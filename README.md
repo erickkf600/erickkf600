@@ -1,4 +1,4 @@
-<img src="python-coding-language.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Erick Developer">
+<img src="web-developer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Erick Developer">
 
 <p align="left" style="font-size: 20px"> 
    Hello my name is Erick Ferreira,  I am <strong>Full-Stack Developer</strong> with focus in <strong>Front-End</strong>.<br>
@@ -30,6 +30,7 @@
 <code title="AdonisJs"><img height="32" src="adonis.png" alt="AdonisJs"/></code>
 <code title="PostgreSQL"><img height="32" src="postgresql.png" alt="PostgreSQL"/></code>
 <code title="MySQL"><img height="32" src="mysql.png" alt="MySQL"/></code>
+
 ---
 
 #### ⭐ Info about my account GitHub
