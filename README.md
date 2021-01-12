@@ -9,8 +9,8 @@
 
 #### 💼 Currently Working On
 <p align="left">
-    Web systems for clubs partner programs such as Juventude (Partner Jaconero),
-    Vasco da Gama (Partner-Giant), Santos (Partner-King) and Flamengo (NRN)
+    Web systems for clubs partner programs such as Juventude (Socio Jaconero),
+       Vasco da Gama (Socio Gigante), Santos (Socio Rei) and Flamengo (NRN)
 </p>
 
 ----
