@@ -1,7 +1,7 @@
 <img src="web-developer.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Erick Developer">
 
 <p align="left" style="font-size: 20px"> 
-   Hello my name is Erick Ferreira,  I am <strong>Full-Stack Developer</strong> but my focus is <strong>Front-End</strong>.<br>
+   Hello my name is Erick Ferreira,  I am <strong>Front-End Developer.<br>
     I have a certificate in IT and about to graduate in System Development for Internet.
 </p>
 
@@ -9,8 +9,7 @@
 
 #### 💼 Currently Working On
 <p align="left">
-    Web systems for clubs partner programs such as Juventude (Socio Jaconero),
-       Vasco da Gama (Socio Gigante), Santos (Socio Rei) and Flamengo (NRN)
+    A project for the greatest bank of latin america, wehre I'm responsible for system improvements and new implementations of their web modular platforms.
 </p>
 
 ----
@@ -51,7 +50,7 @@
   <a href="https://www.linkedin.com/in/erickkf600/" alt="Linkedin" target="_blank"  title="erickkf600 Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"  height="28px"/></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5521990831801" alt="WhatsApp" target="_blank" title="erickkf600 WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5521967328016" alt="WhatsApp" target="_blank" title="erickkf600 WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" height="28px"/></a>
 
 </p> 
