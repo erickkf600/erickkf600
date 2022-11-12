@@ -9,7 +9,7 @@
 
 #### 💼 Currently Working On
 <p align="left">
-    A project for the greatest bank of latin america, wehre I'm responsible for system improvements and new implementations of their web modular platforms.
+    Front end developer at NTT DATA, working on a project for the greatest bank of latin america, wehre I'm responsible for system improvements and new implementations of their web modular platforms.
 </p>
 
 ----
